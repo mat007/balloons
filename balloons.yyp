@@ -34,7 +34,15 @@
             "Key": "08801434-9790-4701-805d-4cc01f78355c",
             "Value": {
                 "id": "abe37f5b-c5e1-43ac-a719-26f6778091c4",
-                "resourcePath": "sprites\\spr_wrong_balloon\\spr_wrong_balloon.yy",
+                "resourcePath": "sprites\\spr_red_balloon\\spr_red_balloon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0a1c9608-32a6-4aeb-a3b0-745f3a10d681",
+            "Value": {
+                "id": "ea617575-607d-4fff-a499-fc56e60927bf",
+                "resourcePath": "sprites\\spr_green_balloon\\spr_green_balloon.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -194,7 +202,15 @@
             "Key": "876d8d90-697b-4bdf-91c4-6333250f3610",
             "Value": {
                 "id": "7dbdcb38-b4c0-45d7-9c83-91e501e40cca",
-                "resourcePath": "sprites\\spr_balloon\\spr_balloon.yy",
+                "resourcePath": "sprites\\spr_blue_balloon\\spr_blue_balloon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "87e8977a-c0cf-4cc5-95a4-0b42812a7789",
+            "Value": {
+                "id": "17088354-dafc-4a41-9cc3-5cea2ea7447b",
+                "resourcePath": "sprites\\spr_purple_balloon\\spr_purple_balloon.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -271,6 +287,14 @@
             }
         },
         {
+            "Key": "c9a48e76-0d10-4015-88ca-cb7c4c5ab8c8",
+            "Value": {
+                "id": "af90dce5-0351-4a3e-aa48-3a8e6b339d4d",
+                "resourcePath": "sprites\\spr_yellow_balloon\\spr_yellow_balloon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cb8868b3-b62c-4e99-84c7-c95db1f5fd5e",
             "Value": {
                 "id": "60626a3e-e727-4c40-8c1d-766714e6ff9c",
@@ -284,6 +308,14 @@
                 "id": "44f40072-878a-4989-b020-de002e7986be",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "e1ff5fd5-7cab-473e-92a6-3c879b958e53",
+            "Value": {
+                "id": "a85a51a9-f45e-4602-9f06-9a56874eafbd",
+                "resourcePath": "sprites\\spr_pink_balloon\\spr_pink_balloon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
