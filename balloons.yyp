@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "88d2d67b-b028-4f61-ab20-d9e0a71173a9",
+            "Value": {
+                "id": "6f2d0bbe-dbcb-48fe-9c99-a6bb7abe692e",
+                "resourcePath": "sounds\\snd_balloon_pop\\snd_balloon_pop.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "8952e7cb-c75b-4d97-8257-fb76fef09789",
             "Value": {
                 "id": "d13a95d8-c2f4-4b5b-81b7-c60ed5c5b36b",
