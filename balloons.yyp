@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "5d4d4d03-acaf-48bc-9774-2f6720bb7313",
+            "Value": {
+                "id": "321e6a17-6922-40e3-9439-42d696dd9393",
+                "resourcePath": "sounds\\snd_mix_down_1\\snd_mix_down_1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5ed31bc4-dd0d-4d59-ab6d-2e3377405ce0",
             "Value": {
                 "id": "c8d9e0fc-a403-4c2c-8ec7-3a24ce55b764",
