@@ -5,16 +5,6 @@
     "name": "obj_balloon",
     "eventList": [
         {
-            "id": "d804a1aa-38c0-4c8a-a0d6-7773c9ee1fe9",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 10,
-            "eventtype": 6,
-            "m_owner": "3c48b7e1-11d8-4b69-987a-a6750595dec3"
-        },
-        {
             "id": "48dea41d-8cb4-486d-9187-baf9827a0574",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -42,6 +32,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "3c48b7e1-11d8-4b69-987a-a6750595dec3"
+        },
+        {
+            "id": "e7e6b694-9b6a-4609-ae57-aa4143de9abc",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "a6b971b1-d2c6-4653-8c0c-bb92cbb6b486",
+            "enumb": 0,
+            "eventtype": 4,
             "m_owner": "3c48b7e1-11d8-4b69-987a-a6750595dec3"
         }
     ],
