@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "7cb444bc-4ee6-434e-a318-1a82047ce15c",
+            "Value": {
+                "id": "18b0d6b1-b60c-4aba-873d-f7040ed21f88",
+                "resourcePath": "sounds\\snd_victory\\snd_victory.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "876d8d90-697b-4bdf-91c4-6333250f3610",
             "Value": {
                 "id": "7dbdcb38-b4c0-45d7-9c83-91e501e40cca",
@@ -204,14 +212,6 @@
                 "id": "44f40072-878a-4989-b020-de002e7986be",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "e6698f2d-8129-4add-8667-5fee84590234",
-            "Value": {
-                "id": "0b649644-99da-45f9-9f32-838518d88307",
-                "resourcePath": "rooms\\room1\\room1.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
