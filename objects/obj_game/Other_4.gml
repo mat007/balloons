@@ -44,8 +44,9 @@ repeat(global.balloon_count)
 		/// @DnDArgument : "xpos" "xx"
 		/// @DnDArgument : "ypos" "yy"
 		/// @DnDArgument : "objectid" "obj_balloon"
+		/// @DnDArgument : "layer" ""Balloons""
 		/// @DnDSaveInfo : "objectid" "3c48b7e1-11d8-4b69-987a-a6750595dec3"
-		instance_create_layer(xx, yy, "Instances", obj_balloon);
+		instance_create_layer(xx, yy, "Balloons", obj_balloon);
 	}
 }
 
@@ -69,8 +70,9 @@ var yy = random(room_height);
 /// @DnDArgument : "xpos" "mouse_x"
 /// @DnDArgument : "ypos" "mouse_y"
 /// @DnDArgument : "objectid" "obj_mouse"
+/// @DnDArgument : "layer" ""Balloons""
 /// @DnDSaveInfo : "objectid" "a6b971b1-d2c6-4653-8c0c-bb92cbb6b486"
-instance_create_layer(mouse_x, mouse_y, "Instances", obj_mouse);
+instance_create_layer(mouse_x, mouse_y, "Balloons", obj_mouse);
 
 /// @DnDAction : YoYo Games.Loops.While_Loop
 /// @DnDVersion : 1
@@ -96,8 +98,9 @@ while ((0 == 0)) {
 		/// @DnDArgument : "xpos" "xx"
 		/// @DnDArgument : "ypos" "yy"
 		/// @DnDArgument : "objectid" "obj_balloon_bad"
+		/// @DnDArgument : "layer" ""Balloons""
 		/// @DnDSaveInfo : "objectid" "cb8868b3-b62c-4e99-84c7-c95db1f5fd5e"
-		instance_create_layer(xx, yy, "Instances", obj_balloon_bad);
+		instance_create_layer(xx, yy, "Balloons", obj_balloon_bad);
 	
 		/// @DnDAction : YoYo Games.Loops.Break
 		/// @DnDVersion : 1
