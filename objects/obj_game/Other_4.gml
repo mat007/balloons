@@ -1,3 +1,19 @@
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 7F3A9852
+/// @DnDApplyTo : 9a43f75c-a343-4871-8647-94b7d4ca0c9e
+with(obj_flower) instance_destroy();
+
+/// @DnDAction : YoYo Games.Instances.Create_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 56C91FFD
+/// @DnDArgument : "xpos" "320"
+/// @DnDArgument : "ypos" "192"
+/// @DnDArgument : "objectid" "obj_flower_dead"
+/// @DnDArgument : "layer" ""Flower""
+/// @DnDSaveInfo : "objectid" "4ae14aed-660c-4c79-bb20-152ee061b4a9"
+instance_create_layer(320, 192, "Flower", obj_flower_dead);
+
 /// @DnDAction : YoYo Games.Random.Randomize
 /// @DnDVersion : 1
 /// @DnDHash : 129C2C97

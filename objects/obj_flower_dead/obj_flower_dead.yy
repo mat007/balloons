@@ -1,19 +1,10 @@
 {
-    "id": "9a43f75c-a343-4871-8647-94b7d4ca0c9e",
+    "id": "4ae14aed-660c-4c79-bb20-152ee061b4a9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_flower",
+    "name": "obj_flower_dead",
     "eventList": [
-        {
-            "id": "f9eccb88-7175-496f-8ffb-27c816728be3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 2,
-            "m_owner": "9a43f75c-a343-4871-8647-94b7d4ca0c9e"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f5509a0a-5eeb-4f7a-b5d9-ed6c8a2f0c7d",
+    "spriteId": "c84e1fd8-be83-4345-a2b1-4084e48807c8",
     "visible": true
 }
