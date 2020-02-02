@@ -14,13 +14,6 @@ with(obj_flower_dead) instance_destroy();
 /// @DnDSaveInfo : "objectid" "9a43f75c-a343-4871-8647-94b7d4ca0c9e"
 instance_create_layer(320, 192, "Flower", obj_flower);
 
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1
-/// @DnDHash : 0EB14EF6
-/// @DnDArgument : "soundid" "snd_victory"
-/// @DnDSaveInfo : "soundid" "7cb444bc-4ee6-434e-a318-1a82047ce15c"
-audio_play_sound(snd_victory, 0, 0);
-
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 30292BBD

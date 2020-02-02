@@ -215,14 +215,6 @@
             }
         },
         {
-            "Key": "7cb444bc-4ee6-434e-a318-1a82047ce15c",
-            "Value": {
-                "id": "18b0d6b1-b60c-4aba-873d-f7040ed21f88",
-                "resourcePath": "sounds\/snd_victory\/snd_victory.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "876d8d90-697b-4bdf-91c4-6333250f3610",
             "Value": {
                 "id": "7dbdcb38-b4c0-45d7-9c83-91e501e40cca",
@@ -236,14 +228,6 @@
                 "id": "17088354-dafc-4a41-9cc3-5cea2ea7447b",
                 "resourcePath": "sprites\/spr_purple_balloon\/spr_purple_balloon.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "88d2d67b-b028-4f61-ab20-d9e0a71173a9",
-            "Value": {
-                "id": "6f2d0bbe-dbcb-48fe-9c99-a6bb7abe692e",
-                "resourcePath": "sounds\/snd_balloon_pop\/snd_balloon_pop.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -276,14 +260,6 @@
                 "id": "16cf7909-2332-4068-9573-498677fd5869",
                 "resourcePath": "objects\/obj_flower\/obj_flower.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "9df2a489-5f52-4f07-afff-b012735e7156",
-            "Value": {
-                "id": "b51a6e79-1bb6-4766-ba02-92fc762d166f",
-                "resourcePath": "sounds\/snd_glass\/snd_glass.yy",
-                "resourceType": "GMSound"
             }
         },
         {
